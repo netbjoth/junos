@@ -1,0 +1,28 @@
+show system commit
+
+- see past commits to the device
+
+show | compare rollback x
+
+show system rollback x compare y
+
+commit confirmed
+- rollback default 10 min
+
+commit confirmed 1
+- rollback 1 min
+
+show | find
+- equal begin on IOS
+
+show | match
+- equal include on IOS
+
+show | save /var/home/file.conf
+
+file show /var/home/file.conf
+
+help apropos ospf | match topics
+
+help apropos ospf | match example
+
